@@ -157,6 +157,7 @@ var 키워드로 선언한 변수는 값을 재할당 할 수 있다.
 
 **const 키워드** 로 선언한 변수는 재할당이 금지되기 때문에 const로 상수를 표현할 수 있다. **상수(Constant)** 는 값을 재할당할 수 없어 한번 정해지면 변경할 수 없는 값이다.
 
+<img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FSilxI%2Fbtr0HzhdrIs%2FqxjHOJuX6dA49li83FzF8k%2Fimg.png" width="60%">
 ![값의 재할당](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FSilxI%2Fbtr0HzhdrIs%2FqxjHOJuX6dA49li83FzF8k%2Fimg.png "값의 재할당")
 
 위의 그림처럼 변수에 값을 재할당하면 이전 값이 있던 공간이 아닌 새로운 메모리 공간에 변수 값이 할당된다.
