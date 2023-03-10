@@ -16,7 +16,7 @@ var result = 10;
 
 예를 들어, 위 코드에서 result라는 변수명은 메모리 주소 0x000000F2와 매핑이 되고, 변수 값 10은 메모리 주소가 가리키는 메모리 공간에 저장된다. 이해를 돕기 위해 아래 그림을 첨부했다.
 
-![변수와 메모리](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FbbzpHM%2Fbtr0H66Jspe%2FOvQLuPKQttmTgft2BmBoYk%2Fimg.png "변수와 메모리"){: width="600" height="424"}
+<img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FbbzpHM%2Fbtr0H66Jspe%2FOvQLuPKQttmTgft2BmBoYk%2Fimg.png" width="60%">
 
 변수 이름은 식별자라고도 한다. **식별자(Identifier)** 란 어떤 값을 구별해서 식별할 수 있는 고유한 이름을 말한다.
 
@@ -142,7 +142,7 @@ console.log(score); // 100 출력
 
 아래 그림처럼 변수에 값을 할당할 때는 이전 값이 저장되어 있던 메모리 공간이 아닌 새로운 메모리 공간을 확보하고 그곳에 할당 값을 저장한다.
 
-![변수 선언과 값의 할당](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FbIpaPc%2Fbtr0IFBceRi%2FKr668PIwXVDKbWkLdu4a7K%2Fimg.png "변수 선언과 값의 할당"){: width="60%"}
+<img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FbIpaPc%2Fbtr0IFBceRi%2FKr668PIwXVDKbWkLdu4a7K%2Fimg.png" width="60%">
 
 ### **📌 값의 재할당**
 
@@ -158,7 +158,6 @@ var 키워드로 선언한 변수는 값을 재할당 할 수 있다.
 **const 키워드** 로 선언한 변수는 재할당이 금지되기 때문에 const로 상수를 표현할 수 있다. **상수(Constant)** 는 값을 재할당할 수 없어 한번 정해지면 변경할 수 없는 값이다.
 
 <img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FSilxI%2Fbtr0HzhdrIs%2FqxjHOJuX6dA49li83FzF8k%2Fimg.png" width="60%">
-![값의 재할당](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FSilxI%2Fbtr0HzhdrIs%2FqxjHOJuX6dA49li83FzF8k%2Fimg.png "값의 재할당")
 
 위의 그림처럼 변수에 값을 재할당하면 이전 값이 있던 공간이 아닌 새로운 메모리 공간에 변수 값이 할당된다.
 
