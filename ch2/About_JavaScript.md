@@ -76,12 +76,6 @@ Node.js의 등장으로 자바스크립트는 프론트엔드와 백엔드를 �
 
 브라우저에서 지원하지 않는 최신 기능을 사용하거나 인터넷 익스플로러와 같은 구형 브라우저를 고려해야 한다면 바벨(Babel)과 같은 트랜스파일러를 사용해 ES6 이상의 사양으로 구현한 소스코드를 ES5 이하의 사양으로 다운그레이드 해줘야 한다.
 
-[https://kangax.github.io/compat-table/es6/](https://kangax.github.io/compat-table/es6/ "ES6 브라우저 지원 현황")
-
-[ECMAScript 6 compatibility table
-
-Sort by Engine types Features Flagged features Show obsolete platforms Show unstable platforms <!-- --> V8 SpiderMonkey JavaScriptCore Chakra Carakan KJS Other ⬤ Minor difference (1 point) ⬤ Small feature (2 points) ⬤ Medium feature (4 points) ⬤ La
-
-kangax.github.io](https://kangax.github.io/compat-table/es6/)
+[ECMAScript 6 compatibility table (ES6 브라우저 지원 현황) ](https://kangax.github.io/compat-table/es6/)
 
 참고문헌 및 출처 : 모던 자바스크립트 Deep Dive (이웅모)
