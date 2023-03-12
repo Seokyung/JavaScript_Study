@@ -80,4 +80,4 @@ Node.js의 등장으로 자바스크립트는 프론트엔드와 백엔드를 �
 
 ECMAScript 6 compatibility table (ES6 브라우저 지원 현황) → [https://kangax.github.io/compat-table/es6/](https://kangax.github.io/compat-table/es6/ "ECMAScript 6 compatibility table (ES6 브라우저 지원 현황)")
 
-참고문헌 및 출처 : 모던 자바스크립트 Deep Dive (이웅모)
+###### 참고문헌 및 출처 : 모던 자바스크립트 Deep Dive (이웅모)
