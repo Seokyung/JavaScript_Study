@@ -170,7 +170,7 @@ char c; // c 변수에는 1바이트 정수 타입의 값만 할당할 수 있�
 
 대표적인 동적 타입 언어로는 자바스크립트, 파이썬(Python), PHP, 루비(Ruby), 리스프(Lisp), 펄(Perl) 등이 있다.
 
-<img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FtFhlZ%2Fbtr2D4MlMTJ%2F2KgwmekcwT8VAjrmRkPeV0%2Fimg.png" width="60%"/>
+<img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FtFhlZ%2Fbtr2D4MlMTJ%2F2KgwmekcwT8VAjrmRkPeV0%2Fimg.png" width="40%"/>
 
 ####  **📌 동적 타입 언어 사용 시 주의사항**
 
