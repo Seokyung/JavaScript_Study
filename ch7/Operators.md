@@ -2,7 +2,7 @@
 
 #### **📌 연산자와 피연산자**
 
-**연산자(Operator)**ß는 하나 이상의 표현식을 대상으로 산술, 할당, 비교, 논리, 타입, 지수 연산 등을 수행해 하나의 값을 만든다.
+**연산자(Operator)**는 하나 이상의 표현식을 대상으로 산술, 할당, 비교, 논리, 타입, 지수 연산 등을 수행해 하나의 값을 만든다.
 
 연산자는 값으로 평가된 피연산자를 연산해 새로운 값을 만든다.
 
@@ -38,7 +38,9 @@
 - 피연산자 앞에 위치한 **전위 증가/감소 연산자** 는 먼저 피연산자의 값을 증가/감소시킨 후, 다른 연산을 수행한다.
 - 피연산자 뒤에 위치한 **후위 증가/감소 연산자** 는 먼저 다른 연산을 수행한 후, 피연산자의 값을 증가/감소시킨다.
 
-[##_ImageGrid|kage@mN3Cc/btr4xKFeSdZ/hOvIihDWs573zN5zki9DAk/img.png,kage@cePLPa/btr4vipqaTn/KUU5TOjFdPBiKJH7Kz0E80/img.png,kage@bY1SwI/btr4ymKYA33/2bddeBDXW8Tda7MPdGd9G0/img.png,kage@btx1JP/btr4tiYccN6/8zJRLEBtp12f5D0fJt39Dk/img.png|data-is-animation="false" data-origin-width="362" data-origin-height="148" data-filename="스크린샷 2023-03-18 오전 1.22.10.png" data-widthpercent="41.31" style="width: 40.828%; margin-right: 10px;",data-is-animation="false" data-origin-width="351" data-origin-height="101" data-filename="edited_스크린샷 2023-03-18 오전 1.22.28.png" data-widthpercent="58.69" style="width: 58.0092%;",data-is-animation="false" data-origin-width="354" data-origin-height="106" data-filename="edited_스크린샷 2023-03-18 오전 1.22.47.png" data-widthpercent="49.2" style="width: 48.6323%; margin-right: 10px; margin-top: 10px;",data-is-animation="false" data-origin-width="362" data-origin-height="105" data-filename="edited_스크린샷 2023-03-18 오전 1.23.02.png" data-widthpercent="50.8" style="width: 50.2049%; margin-top: 10px;"|_##]
+|||
+|<img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FmN3Cc%2Fbtr4xKFeSdZ%2FhOvIihDWs573zN5zki9DAk%2Fimg.png" />|<img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FcePLPa%2Fbtr4vipqaTn%2FKUU5TOjFdPBiKJH7Kz0E80%2Fimg.png" />|
+|<img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FbY1SwI%2Fbtr4ymKYA33%2F2bddeBDXW8Tda7MPdGd9G0%2Fimg.png" />|<img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2Fbtx1JP%2Fbtr4tiYccN6%2F8zJRLEBtp12f5D0fJt39Dk%2Fimg.png" />|
 
 **\+ 단항 연산자** 를 숫자 타입이 아닌 피연산자에 사용하면 피연산자를 숫자 타입으로 변환하여 반환한다.
 
