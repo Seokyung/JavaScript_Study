@@ -101,7 +101,7 @@ NaN은 자신과 일치하지 않는 유일한 값이기 때문에 숫자가 NaN
 
 양의 0과 음의 0을 비교할 때에도 일치 비교, 동등 비교 연산자를 사용하면 true가 반환되기 때문에 Object.is 메서드를 사용해야 정확한 비교 결과를 얻을 수 있다.
 
-<img src="" /> <img src="" /> <img src="" />
+<img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2Fb7RR8i%2Fbtr4yjBJGP6%2FZuASAiYaQLjNxon7nzI7KK%2Fimg.png" /> <img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2Fsk9m3%2Fbtr4ymkXxT9%2FHC1xSkbYZ3wkYfcuDtqYnK%2Fimg.png" /> <img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FddXvRz%2Fbtr4WFXsegN%2FcqCRuf5YlkPF2rDhCrrvzK%2Fimg.png" />
 
 **대소 관계 비교 연산자** 는 피연산자의 크기를 비교해 불리언 값을 반환한다.
 
@@ -175,7 +175,7 @@ typeof 연산자로 null 값을 연산하면 "null"이 아닌 "object" 가 반�
 
 또한 선언하지 않은 식별자를 typeof 연산자로 연산하면 ReferenceError가 아닌 undefined를 반환하므로 주의해야 한다.
 
-<img src="" /> <img src="" />
+<img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FuD6fi%2Fbtr4DtqLfOa%2FJtb0CyBCc5Hn8dgKgOOIN0%2Fimg.png" /> <img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FuD6fi%2Fbtr4DtqLfOa%2FJtb0CyBCc5Hn8dgKgOOIN0%2Fimg.png" />
 
 #### **📌 지수 연산자**
 
@@ -183,15 +183,16 @@ typeof 연산자로 null 값을 연산하면 "null"이 아닌 "object" 가 반�
 
 음수를 거듭제곱의 밑으로 사용해 계산하려면 괄호로 묶어야 한다.
 
-<img src="" /> <img src="" />
+<img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FxtpXT%2Fbtr4AVPdyuY%2FMKU29KQUN9JnMFZodcHFAk%2Fimg.png" />
+<img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2Fuir63%2Fbtr4LIO3kaV%2FfjuPVolhmJK3aqy2k0nTnK%2Fimg.png" />
 
 지수 연산자는 할당 연산자와 함께 사용할 수 있다.
 
-[##_Image|kage@ADIwM/btr415vbQaP/IJ8cNPjiZoS1JMN314NxR0/img.png|CDM|1.3|{"originWidth":230,"originHeight":106,"style":"alignCenter","filename":"스크린샷 2023-03-20 오후 3.46.39.png"}_##]
+<img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FADIwM%2Fbtr415vbQaP%2FIJ8cNPjiZoS1JMN314NxR0%2Fimg.png" />
 
 지수 연산자가 도입되기 전에는 **Math.pow 메서드** 를 사용했다. 지수 연산자는 우결합성을 갖기 때문에 연속해서 지수 연산을 하는 경우 Math.pow 메서드보다 가독성이 좋다.
 
-[##_Image|kage@b7AsF1/btr40SDbyi9/wKOWyEgyDuCBTqNfTw9fX0/img.png|CDM|1.3|{"originWidth":450,"originHeight":222,"style":"alignCenter","filename":"edited_스크린샷 2023-03-20 오후 3.49.00.png"}_##]
+<img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2Fb7AsF1%2Fbtr40SDbyi9%2FwKOWyEgyDuCBTqNfTw9fX0%2Fimg.png" />
 
 #### **📌 그 외의 연산자**
 
@@ -210,7 +211,7 @@ typeof 연산자로 null 값을 연산하면 "null"이 아닌 "object" 가 반�
 
 다른 코드에 영향을 주는 부수 효과가 있는 연산자에는 **할당 연산자(=)** , **증가/감소 연산자(++/--)** , **delete 연산자** 가 있다.
 
-[##_ImageGrid|kage@T6SCZ/btr4LHP9VNT/DU5BHtXP4V4kyQ5jp1SkMk/img.png,kage@bu38jB/btr4Dr8eXDF/Irwknmjjlxnu9LD24TogRK/img.png,kage@Iep6M/btr4WGXlQb0/WEvp4WDQr3MvflEbGNkwJ0/img.png|data-is-animation="false" data-origin-width="264" data-origin-height="156" data-filename="스크린샷 2023-03-20 오후 3.59.06.png" data-widthpercent="24.43" style="width: 23.8665%; margin-right: 10px;",data-is-animation="false" data-origin-width="304" data-origin-height="110" data-filename="스크린샷 2023-03-20 오후 3.59.19.png" style="width: 38.9754%; margin-right: 10px;" data-widthpercent="39.9",data-is-animation="false" data-origin-width="410" data-origin-height="166" data-filename="스크린샷 2023-03-20 오후 3.59.27.png" style="width: 34.8325%;" data-widthpercent="35.67"|_##]
+<img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FT6SCZ%2Fbtr4LHP9VNT%2FDU5BHtXP4V4kyQ5jp1SkMk%2Fimg.png" /> <img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2Fbu38jB%2Fbtr4Dr8eXDF%2FIrwknmjjlxnu9LD24TogRK%2Fimg.png" /> <img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FIep6M%2Fbtr4WGXlQb0%2FWEvp4WDQr3MvflEbGNkwJ0%2Fimg.png" />
 
 #### **📌 연산자 우선 순위와 결합 순서**
 
