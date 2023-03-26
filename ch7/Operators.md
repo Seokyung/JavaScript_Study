@@ -183,7 +183,8 @@ typeof 연산자로 null 값을 연산하면 "null"이 아닌 "object" 가 반�
 
 음수를 거듭제곱의 밑으로 사용해 계산하려면 괄호로 묶어야 한다.
 
-<img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FxtpXT%2Fbtr4AVPdyuY%2FMKU29KQUN9JnMFZodcHFAk%2Fimg.png" /> <img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2Fuir63%2Fbtr4LIO3kaV%2FfjuPVolhmJK3aqy2k0nTnK%2Fimg.png" />
+<img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FxtpXT%2Fbtr4AVPdyuY%2FMKU29KQUN9JnMFZodcHFAk%2Fimg.png" />
+<img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2Fuir63%2Fbtr4LIO3kaV%2FfjuPVolhmJK3aqy2k0nTnK%2Fimg.png" />
 
 지수 연산자는 할당 연산자와 함께 사용할 수 있다.
 
